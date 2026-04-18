@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="paddleocr-json-java:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/paddleocr_json_java_jar</output-path>
+    <root id="archive" name="paddleocr-json-java.jar">
+      <element id="module-output" name="paddleocr-json-java" />
+    </root>
+  </artifact>
+</component>
